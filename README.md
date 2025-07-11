@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Collaboration
 
 ## Team Members
@@ -27,3 +28,6 @@ All updates have been successfully merged into the `main` branch, ensuring both 
 ![github](./img/github%20dashboard.png)
 
 ![terminal](./img/terminal.png)
+=======
+# devops-3mtt
+>>>>>>> d08c0766e75cb81515c4af1fbecac472974837f2
